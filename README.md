@@ -1,7 +1,7 @@
-#🚀 Welcome to My GitHub Profile!
+🚀 Welcome to My GitHub Profile!
 Hi there! I'm Anuraj, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 
-##🛠️ Tech Stack & Expertise<br/>
+🛠️ Tech Stack & Expertise<br/>
 🔹 Programming & Core Concepts<br/>
 🐍 Python – DSA & OOPs<br/>
 ⚡ API Development – Flask (Web Dev Project)<br/>
